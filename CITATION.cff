@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use the content of this work, please cite it as per the details below."
+title: SEARCHD - Advanced Retrieval with Text Generation using Large Language Models and Cross Encoding Re-ranking
+version: 1.0.0
+type: conference-paper
+conference:
+    name: "2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)"
+date-released: 2024-10-23
+doi: 10.1109/CASE59546.2024.10711642
+url: https://doi.org/10.1109/CASE59546.2024.10711642
+authors:
+  - family-names: "Mishra"
+    given-names: "Pradumn"
+    orcid: "https://orcid.org/0000-0002-4029-6008"
+
+  - family-names: "Mahakali"
+    given-names: "Aditya"
+  
+  - family-names: "Venkataraman"
+    given-names: "Prasanna Shrinivas"
+
+preferred-citation:
+  type: conference-paper
+  conference:
+    name: "2024 IEEE 20th International Conference on Automation Science and Engineering (CASE)"
+  authors:
+    - family-names: "Mishra"
+      given-names: "Pradumn"
+      orcid: "https://orcid.org/0000-0002-4029-6008"
+
+    - family-names: "Mahakali"
+      given-names: "Aditya"
+    
+    - family-names: "Venkataraman"
+      given-names: "Prasanna Shrinivas"
+  
+  doi: 10.1109/CASE59546.2024.10711642
+  title: SEARCHD - Advanced Retrieval with Text Generation using Large Language Models and Cross Encoding Re-ranking
+  publisher: IEEE
+  start: 975 # First page number
+  end: 980
+  month: 8
+  year: 2024
