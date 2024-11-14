@@ -5,6 +5,7 @@ Search Engine with Advanced Retrieval using Cross-encoding and Hypothetical Docu
 ## Authors of this code
 
 [Aditya Mahakali](https://www.linkedin.com/in/aditya-mahakali-b81758168/)
+
 [Pradumn Mishra](https://www.linkedin.com/in/pradumn203/)
 
 ### Steps to Run
