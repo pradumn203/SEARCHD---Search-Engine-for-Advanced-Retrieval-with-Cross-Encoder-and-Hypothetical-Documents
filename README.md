@@ -20,6 +20,10 @@ Once setup is complete, you can run the SEARCHD notebook for context retrieval.
 
 If you find our work helpul, Please cite our work in your research:
 
+```apa
+Mishra, P., Mahakali, A., & Venkataraman, P. S. (2024, August). SEARCHD-Advanced Retrieval with Text Generation using Large Language Models and Cross Encoding Re-ranking. In 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE) (pp. 975-980). IEEE.
+```
+
 ```bibtex
 @INPROCEEDINGS{10711642,
   author={Mishra, Pradumn and Mahakali, Aditya and Venkataraman, Prasanna Shrinivas},
