@@ -1,4 +1,4 @@
-S.E.A.R.CH.D - Search Engine for Advanced Retrieval with Cross Encoder and Hypothetical Documents
+# S.E.A.R.CH.D - Search Engine for Advanced Retrieval with Cross Encoder and Hypothetical Documents
 
 ## Steps to Run
 After cloning the repo, install requirements by running.
