@@ -2,7 +2,12 @@
 
 Search Engine with Advanced Retrieval using Cross-encoding and Hypothetical Documents (SEARCHD) enhances the existing information retrieval mechanism and reduces the latency of LLM-based retrievers. This framework generates a partially correct document using a LLM which is clubbed along with the original query for context retrieval. The initial context which has a lower context precision is re-ranked by cross encoding and lower-ranked documents are eliminated based on a set threshold depending on the use case. This framework outperforms LLM-based retrievers such as HyDE in both accuracy and latency and re-ranking-based retrievers like RAG Fusion in accuracy on the MS-Marco Question-Answering Dataset with a significant enhancement of 12%.
 
-## Steps to Run
+## Authors of this code
+
+[Aditya Mahakali](https://www.linkedin.com/in/aditya-mahakali-b81758168/)
+[Pradumn Mishra](https://www.linkedin.com/in/pradumn203/)
+
+### Steps to Run
 After cloning the repo, install requirements by running.
 
 ```pip install -r requirements.txt```
